@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="FragmentA">Fragment A</string>
+    <string name="FragmentB">Fragment B</string>
+</resources>
